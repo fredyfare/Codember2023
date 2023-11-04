@@ -4,7 +4,7 @@
   "description": "<div align=\"center\">\r   <img src=\"codember2023.png\" alt=\"Banner\">\r </div>",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "jest"
   },
   "keywords": [],
   "author": "",
