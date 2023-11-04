@@ -4,6 +4,14 @@
 
 # Codember 2023 challenges solutions in Javascript
 In this repository, you will find the solutions to the challenges of **Codember ver. 2023** by [Midudev](https://github.com/midudev) on [Codember](https://codember.dev/), implemented in **JavaScript** <img src="https://skillicons.dev/icons?i=js" width="15" />.
+Each challenge directory will have the following structure, where **N represents the number of the challenge, and each challenge directory will contain a JavaScript (js) file with the solution and a README with the problem statement**:
+
+```sh
+.
+├── challengeN
+│  ├── challengeN.js
+│  └── READMECN.md
+```
 
 <table>
   <tr>
