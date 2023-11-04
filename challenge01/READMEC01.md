@@ -1,4 +1,4 @@
-<img src="c01solved.png" alt="Texto alternativo" width="400" height="400">
+<img src="../images/c01solved.png" alt="Texto alternativo" width="400" height="400">
 
 ## The Challenge_01
 
