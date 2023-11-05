@@ -24,6 +24,8 @@ npm install
 npm test
 ```
 
+### Challenges
+
 <table>
   <tr>
     <th align="center">Challenge</th>
@@ -35,6 +37,27 @@ npm test
       :male_detective: :mailbox_with_mail:
     </td>
     <td align="center">:heavy_check_mark:</td>
+  </tr>
+</table>
+
+### Secrets
+
+<table>
+  <tr>
+    <th align="center">Secret</th>
+    <th align="center">Solved?</th>
+  </tr>
+  <tr>
+    <td align="center">Who.png :star:</td>
+    <td align="center">:heavy_check_mark:</td>
+  </tr>
+    <tr>
+    <td align="center">Mail :star:</td>
+    <td align="center">:heavy_multiplication_x:</td>
+  </tr>
+    <tr>
+    <td align="center">Konami Code :star:</td>
+    <td align="center">:heavy_multiplication_x:</td>
   </tr>
 </table>
 
